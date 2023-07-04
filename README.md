@@ -18,8 +18,18 @@
 - ⚡ 技术是手段，秉持利他、自驱、开放的行事理念🤛  
   
 
-<br/>  
+<br/>
 
+## My Workbench
+<ul>
+  <li><b>OS:</b> Macos </li>
+  <li><b>Laptop: </b> Macbook Pro </li>
+  <li><b>Browser: </b> Chrome / Safari</li>
+  <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
+  <li><b>Code Editor:</b> IDEA / VSCode / Cursor</li>
+  <li><b>Blog:</b> aaron-codes.github.io </li>
+</ul>	
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
