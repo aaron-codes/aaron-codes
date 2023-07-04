@@ -84,7 +84,7 @@
 
 ### AI  
 <div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://chatgpt.openai.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" alt="CHATGPT" height="50" /></a>  
 </div>
 
 </td>
