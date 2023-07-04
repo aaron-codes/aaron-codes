@@ -29,7 +29,6 @@
   <li><b>Code Editor:</b> IDEA / VSCode / Cursor</li>
   <li><b>Knowledge:</b> Notion </li>
   <li><b>Blog:</b> aaron-codes.github.io </li>
-  Knowledge
 </ul>	
 <br/>  
 
