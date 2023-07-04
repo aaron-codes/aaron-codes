@@ -27,7 +27,9 @@
   <li><b>Browser: </b> Chrome / Safari</li>
   <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
   <li><b>Code Editor:</b> IDEA / VSCode / Cursor</li>
+  <li><b>Knowledge:</b> Notion </li>
   <li><b>Blog:</b> aaron-codes.github.io </li>
+  Knowledge
 </ul>	
 <br/>  
 
@@ -86,7 +88,17 @@
 
 ### AI  
 <div align="center">  
-<a href="https://chatgpt.openai.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" alt="CHATGPT" height="50" /></a>  
+<a href="https://chatgpt.openai.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" alt="CHATGPT" height="50" /></a> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/chatgpt-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/anthropic-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/midjourney-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/stability-ai-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/gaoding-design-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/github-copilot-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/cursor-so-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/langchain-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/vercel-icon.png" alt="CHATGPT" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/aaron-codes/aaron-codes/main/gif/pytorch-icon.png" alt="CHATGPT" height="50" />
 </div>
 </td></tr></table>  
 
