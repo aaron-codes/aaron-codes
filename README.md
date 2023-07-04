@@ -6,10 +6,10 @@
 ### <div align="left"> 🤜嗨，我是 Aaron（欧阳），是一名践行终身学习的技术人、AI 降临派</div>  
   
 
-- 👨‍💻 14  年技术生涯 ，7  年技术管理，有过创业经历。🚀  
+- 👨‍💻 14 年技术生涯 ，7 年技术管理，有过创业经历。🚀  
   
 
-- 🔭 目前正在停下脚步思考复盘，并寻求新的挑战和机会✍️  
+- 🔭 目前正在寻求新的挑战和机会✍️  
   
 
 - ⛷️擅长后端技术栈，不断实践  TOGAF 架构方法论🎿  
@@ -34,8 +34,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -50,8 +48,6 @@
 
 </td>
 <td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -69,8 +65,6 @@
 
 
 <td valign="top" width="50%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -90,30 +84,37 @@
 </td>
 <td valign="top" width="50%">
 
-
-
 ### AI  
 <div align="center">  
 <a href="https://chatgpt.openai.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" alt="CHATGPT" height="50" /></a>  
 </div>
-
-</td>
-</tr>
-
-</table>  
+</td></tr></table>  
 
 <br/>  
-
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
+<div align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=aaron-codes&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+</div>  
+</td>
+<td>
+<div align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-codes&hide_border=true&layout=compact" align="left" />  
-
+</div>
+</td>  
+</tr></table>
 <br/>  
+<details open>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-codes&hide_border=true" />
+</details>
 
 ## Connect with me  
-<div align="center">
+
+<div align="left">
 <a href="https://github.com/aaron-codes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -121,10 +122,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-<br />
-
-----
+<br/>
+© 2023 Made with ❤ by [profilinator](https://profilinator.rishav.dev/) <img align='right' src="https://komarev.com/ghpvc/?username=aaron-codes&label=Profile+Views&color=3a8755">
+<br/>
